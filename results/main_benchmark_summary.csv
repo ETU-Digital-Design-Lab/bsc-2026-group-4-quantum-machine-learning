@@ -1,0 +1,10 @@
+Category,Group,Accuracy,Time_s
+Validation Method,Train/Test Split,0.8469,17.41
+Validation Method,2-Fold CV,0.8348,29.07
+Model,Classical_SVM(RBF),0.9870,0.00
+Model,QSVM,0.8837,50.29
+Model,VQC,0.7615,1.99
+Encoding,Angle,0.9433,9.38
+Encoding,Amplitude,0.7019,42.90
+Qubits,3,0.8306,21.33
+Qubits,4,0.8145,30.95
